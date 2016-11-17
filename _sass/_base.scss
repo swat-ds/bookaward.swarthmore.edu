@@ -349,8 +349,13 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+.service-box .essay h2 {
+    padding-bottom: 67px;
+}
+
 .service-box h2 {
     text-transform: uppercase;
     padding-bottom: 40px;
+    font-size: 25px;
+    text-decoration: underline;
 }
-
