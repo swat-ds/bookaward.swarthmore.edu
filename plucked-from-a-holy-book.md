@@ -1,7 +1,8 @@
 ---
 author: Hanna King
-layout: front
+layout: post
 published: true
+url: /test
 title: Plucked from a holy book
 ---
 
