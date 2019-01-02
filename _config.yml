@@ -11,3 +11,4 @@ github_username:
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+
