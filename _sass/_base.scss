@@ -47,9 +47,10 @@ p {
 }
 
 .bg-dark {
-    background-color: $theme-dark;
+    //background-color: $theme-dark;
     color: white;
-}
+    margin-top: 5px;
+    background-image: linear-gradient(to bottom, #de1b1b, #df2020, #df2424, #e02828, #e02c2c, #e13030, #e13333, #e23737, #e33c3b, #e34040, #e44444, #e44848);}
 
 .text-faded {
     color: white;
