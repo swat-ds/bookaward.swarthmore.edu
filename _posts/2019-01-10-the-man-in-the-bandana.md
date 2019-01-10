@@ -7,6 +7,7 @@ published: true
 image: foster_final_web.jpg
 ---
 <div markdown="1" class="essay">
+	
 *Edited version. To see original format of essay in PDF, please go [here](https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/18973/Newton_2016_1st_Schlessinger.pdf?sequence=2)*
 
 # "The Man in the Bandana: a David Foster Wallace Collection" 

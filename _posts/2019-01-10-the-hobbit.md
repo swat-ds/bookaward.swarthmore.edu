@@ -7,6 +7,7 @@ published: true
 image: hobbit_final_web.jpg
 ---
 <div markdown="1" class="essay">
+	
 *Edited version. To see original format of essay in PDF, please go [here](https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/11049/Newton_2013_1st_goossen.pdf?sequence=1&isAllowed=y)*
 
 # "The Hobbit: A Journey from Tolkien to Us...And Back Again" 
@@ -601,3 +602,4 @@ Farmer Giles ofHam are two short children's books that are written in a style si
 Hobbit. I have especially enjoyed Farmer Giles ofHam, which like The Hobbit, is a story about
 an unlikely hero who sets out to best a dragon. Both Smith and Farmer have medieval settings
 and are amusing but fairly modest fairy-stories.
+</div>
