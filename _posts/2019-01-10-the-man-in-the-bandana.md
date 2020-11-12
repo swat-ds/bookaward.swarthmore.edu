@@ -163,4 +163,4 @@ I still only have this book on Kindle, but I would like to find a print copy of 
  
 I recently ordered this from Amazon and have barely gotten to read it yet. It is a collection of several interviews, including the last interview Wallace did, which was with Christopher Farley at the Wall Street Journal. I am especially eager to read the interview he did with Dave Eggers, a contemporary of Wallace’s whom Wallace greatly admired and whose Heartbreaking Work of Staggering Genius Wallace praised. 
 
-
+</div>

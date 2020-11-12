@@ -162,3 +162,5 @@ True Compass is Ted Kennedy's autobiography, released in January 2009, only seve
 31) *Jacqueline Kennedy: Historic Conversations on Life with John F. Kennedy (Jacqueline Kennedy Onassis, 2011)*
 
 Following her husband's assassination, Jackie Kennedy worked with Bobby and Arthur Schlesinger to compile an  oral history of her life with John. The interview resulted in hours of recordings, which Jackie refused to have published. In Fall 2011, the Kennedy family approved the released of the materials from the holdings of the John F. Kennedy Presidential Library, publishing the material in the form of a book and a set of 8-CDs. The collection not only provides insight into life with Jack but also showcases Jackie in a new light -  a woman who has let go of her private exterior to commemorate her recently lost husband.
+
+</div>

@@ -252,4 +252,5 @@ Originally issued on a record, this is a CD copy of Ruth Rubin's field recording
 *Schechter, Basya. Songs of Wonder. Tzaddik, 2011.* 
 
 Basya Schechter’s Songs of Wonder features musical interpretations of Rabbi Abraham Joshua Heschel’s Yiddish language poetry. Heschel is perhaps best remembered for his friendship with and public, vocal support of Martin Luther King Jr, as well as his leadership of the American Jewish community throughout the mid 20th century. Schechter, raised in an ultra-Orthodox home in Boro Park, composed original music for 10 poems from Heschel’s The Ineffable Name of God: Man, published in Warsaw in 1933 during his doctoral studies. The CD case contains bilingual Yiddish/English liner notes, autographed by Schechter at her December 2012 album release. It was a gift from a dear friend who was present that night.
+
 </div>
