@@ -8,8 +8,7 @@ image: hobbit_final_web.jpg
 ---
 
 <div markdown="1" class="essay">
-	
-*Edited version. To see original format of essay in PDF, please go [here](https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/11049/Newton_2013_1st_goossen.pdf?sequence=1&isAllowed=y)*
+
 
 # "The Hobbit: A Journey from Tolkien to Us...And Back Again" 
 ## by *Ben Goosen* 

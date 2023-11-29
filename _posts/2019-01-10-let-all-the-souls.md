@@ -9,8 +9,6 @@ image: newton-poster.jpg
 
 <div markdown="1" class="essay">
 
-*Edited version. To see original format of essay in PDF, please go [here](https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/23013/Newton_2020_1st_Getzel.pdf?sequence=1&isAllowed=y)*
-
 # "Let all the souls here rest in peace,for we willnot repeat the evil: Teaching theBombing of Hiroshima Through Hibakusha Testimony" 
 ## by *Alessandro Getzel*
 

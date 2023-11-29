@@ -9,8 +9,6 @@ image: hanna_final_web.jpg
 
 <div markdown="1" class="essay">
 	
-*Edited version. To see original format of essay in PDF, please go [here](http://triceratops.brynmawr.edu/dspace/bitstream/handle/10066/14227/Newton_2014_1st_King.pdf?sequence=1)*
-
 # "Plucked from a holy book": Ashkenazim on the margins" 
 ## by *Hanna King* 
 "And my life, a page plucked from a holy book the first line torn?" -Kadya Molodovsky, 1927 

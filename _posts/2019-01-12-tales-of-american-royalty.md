@@ -9,8 +9,6 @@ image: kennedy_final_web.jpg
 
 <div markdown="1" class="essay">
 
-*Edited version. To see original format of essay in PDF, please go [here](https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/11425/Newton_2013_2nd_cato.pdf?sequence=1)*
-
 # "Tales of American Royalty - An Exercise of American History" 
 ## by *Paul Cato* 
 
